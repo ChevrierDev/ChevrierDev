@@ -15,4 +15,4 @@ I am a full-stack developer with a strong preference for backend development, pa
 
 Cinephoria: A cinema management system with web (EJS, Node.js), mobile (React Native), and desktop (Electron.js) apps. Manages movies, reservations, and maintenance. Databases: PostgreSQL, MongoDB.
 
-![Bannière de mon profil](https://github.com/ChevrierDev/Jobify/blob/main/views/public/images/github/gif1.gif)
+<img src="https://github.com/ChevrierDev/Jobify/blob/main/views/public/images/github/gif1.gif" alt="Facebook" width="30">
