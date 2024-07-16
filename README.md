@@ -10,3 +10,9 @@ I am a full-stack developer with a strong preference for backend development, pa
 -  **Frameworks:**  tailwindcss, React, Express.js, Electron.js, React-native
 -  **DevOps:**   Docker, Jenkins
 -  **Database:** Relational Database (PostgreSQL) / Non-Relational Database (MongoDB)
+
+## ⭐️ Some of my projects
+
+Cinephoria: A cinema management system with web (EJS, Node.js), mobile (React Native), and desktop (Electron.js) apps. Manages movies, reservations, and maintenance. Databases: PostgreSQL, MongoDB.
+
+![Bannière de mon profil](https://github.com/ChevrierDev/Jobify/blob/main/views/public/images/github/gif1.gif)
