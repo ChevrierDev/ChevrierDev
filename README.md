@@ -3,14 +3,12 @@
 <div style="display: flex; align-items: center; gap: 10px;">
 
   <!-- Badge Twitter -->
-  <a href="https://x.com/DevToolMania" style="text-decoration: none; display: flex; align-items: center;">
-    <img src="https://img.shields.io/badge/Twitter-1E90FF?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" style="display: inline-block; vertical-align: middle;"/>
-  </a>
+  [![Twitter](https://img.shields.io/badge/Twitter-1E90FF?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/DevToolMania)
 
   <!-- Bouton Contact Me -->
-  <p  style="display: inline-block; padding: 7px 9px; background-color: #00E07F; color: #fff; text-decoration: none;  font-weight: bold; line-height: 1;">
-    Contact Me
-  </p>
+  <a href="mailto:chevrier.dev@hotmail.com">
+    <img src="https://img.shields.io/badge/Contact%20Me-Green?style=for-the-badge&logo=mail.ru" alt="Contact Me Badge">
+  </a>
 
 </div>
 
