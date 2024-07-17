@@ -8,7 +8,7 @@
   </a>
 
   <!-- Bouton Contact Me -->
-  <a href="mailto:chevrier.dev@hotmail.com" style="display: inline-block; padding: 7px 9px; background-color: #00E07F; color: #fff; text-decoration: none;  font-weight: bold; line-height: 1;">
+  <a href="chevrier.dev@hotmail.com" style="display: inline-block; padding: 7px 9px; background-color: #00E07F; color: #fff; text-decoration: none;  font-weight: bold; line-height: 1;">
     Contact Me
   </a>
 
