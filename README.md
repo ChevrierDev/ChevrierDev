@@ -1,6 +1,18 @@
-<h2> Hello there, I'm Erwan Chevrier <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="25px"></h2>
+<h2> Hello there, I'm Erwan Chevrier <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="25px"></h2> 
 
-[![Twitter](https://img.shields.io/badge/Twitter-1E90FF?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/DevToolMania)
+<div style="display: flex; align-items: center; gap: 10px;">
+
+  <!-- Badge Twitter -->
+  <a href="https://x.com/DevToolMania" style="text-decoration: none; display: flex; align-items: center;">
+    <img src="https://img.shields.io/badge/Twitter-1E90FF?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" style="display: inline-block; vertical-align: middle;"/>
+  </a>
+
+  <!-- Bouton Contact Me -->
+  <a href="mailto:chevrier.dev@hotmail.com" style="display: inline-block; padding: 7px 9px; background-color: #00E07F; color: #fff; text-decoration: none;  font-weight: bold; line-height: 1;">
+    Contact Me
+  </a>
+
+</div>
 
 I am a full-stack developer with a strong preference for backend development, particularly in designing and building RESTful APIs. I am experienced in creating distributed, scalable systems using TypeScript, Express.js, Node.js, SQL. 
 
