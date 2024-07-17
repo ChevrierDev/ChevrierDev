@@ -4,8 +4,9 @@
 
   <!-- Badge Twitter -->
   [![Twitter](https://img.shields.io/badge/Twitter-1E90FF?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/DevToolMania)
+
   <!-- Bouton Contact Me -->
- <a href="mailto:chevrier.dev@hotmail.com">
+  <a href="mailto:monadresse@example.com">
     <img src="https://img.shields.io/badge/Contact%20Me-Green?style=for-the-badge&logo=mail.ru" alt="Contact Me Badge">
   </a>
 
