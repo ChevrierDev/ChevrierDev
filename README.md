@@ -12,12 +12,12 @@
 
 </div>
 
-I am a full-stack developer with a strong preference for backend development, particularly in designing and building RESTful APIs. I am experienced in creating distributed, scalable systems using TypeScript, Express.js, Node.js, SQL. 
+I am a full-stack developer with a strong preference for backend development, particularly in designing and building RESTful APIs. I am experienced in creating distributed, scalable systems using TypeScript, Express.js, Node.js, Django, SQL. 
 
 ## 👨‍💻 Professional Skills
 
--  **Language:**  Typescript, Node.js, JavaScript, SQL, HTML, CSS
--  **Frameworks:**  tailwindcss, React, Express.js, Electron.js, React-native
+-  **Language:**  Typescript, Node.js, JavaScript, SQL, HTML, CSS, Python
+-  **Frameworks:**  tailwindcss, React, Express.js, Electron.js, React-native, Django, Angular
 -  **DevOps:**   Docker, Jenkins
 -  **Database:** Relational Database (PostgreSQL) / Non-Relational Database (MongoDB)
 
