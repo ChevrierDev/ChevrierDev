@@ -18,7 +18,7 @@ I am a full-stack developer with a strong preference for backend development, pa
 
 -  **Language:**  Typescript, Node.js, JavaScript, SQL, HTML, CSS, Python
 -  **Frameworks:**  tailwindcss, React, Express.js, Electron.js, React-native, Django, Angular
--  **DevOps:**   Docker, Jenkins
+-  **DevOps:**   Docker
 -  **Database:** Relational Database (PostgreSQL) / Non-Relational Database (MongoDB)
 
 ## ⭐️ Some of my projects
